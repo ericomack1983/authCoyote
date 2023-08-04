@@ -1,0 +1,3 @@
+cd /Users/ericorodrigues/Documents/Dev/AWS/authenticator
+npm start
+--> Chrome opens automatically (Cognito)
